@@ -1,0 +1,7 @@
+.vscode/
+.cursor/
+_vite/node_modules/
+.DS_Store
+dist
+twentytwentyfive
+coding-md
